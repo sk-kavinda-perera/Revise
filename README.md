@@ -17,6 +17,9 @@
 
 
 
+# 2 Setting up the database connection
+ ![image](https://github.com/sk-kavinda-perera/Revise/assets/139713447/5a75901d-9e72-4000-8fad-d4a0ff08f849)
+
 
 
 # Questions
