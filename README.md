@@ -1,9 +1,8 @@
 # Revise
+![image](https://github.com/sk-kavinda-perera/Revise/assets/139713447/de121f05-46dd-4cc3-afbf-5c2d13a13520)
 
-  jpa:
-    hibernate:
-      ddl-auto: update
-      #types of ddl-auto:
+
+  
 #create: This option tells Hibernate to create the database schema from scratch every time the application starts. It drops the existing tables and recreates them based on the entity mappings. Be cautious when using this option in production as it can lead to data loss.
  
 #create-drop: Similar to the create option, this will create the database schema when the application starts. However, it will also drop the schema when the application shuts down. It's typically used for testing or development environments where you want to recreate the schema frequently.
