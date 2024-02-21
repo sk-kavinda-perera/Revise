@@ -1,5 +1,6 @@
 # Revise
-![image](https://github.com/sk-kavinda-perera/Revise/assets/139713447/de121f05-46dd-4cc3-afbf-5c2d13a13520)
+ ![image](https://github.com/sk-kavinda-perera/Revise/assets/139713447/863dd1c2-4a17-4f84-8e59-6a136475bf8d)
+
 
 
   
